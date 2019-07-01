@@ -45,6 +45,7 @@ Camera
 2) make
 3) ./rtv scenes/(scene_file)
 ```
+<img width="1241" alt="Screen Shot 2019-07-01 at 4 15 53 AM" src="https://user-images.githubusercontent.com/40596629/60405335-14fe2b00-9bb8-11e9-816d-106e02107ea4.png">
 *In my project you could see this scene in `scenes/sphere`*
 
 ## Objects

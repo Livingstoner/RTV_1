@@ -55,6 +55,9 @@ Camera
 - *Cylinder*
 
 ## Scenes
-### Cylinder
 <img width="1240" alt="Screen Shot 2019-07-01 at 4 22 17 AM" src="https://user-images.githubusercontent.com/40596629/60405282-dc5e5180-9bb7-11e9-9a93-cae958f78283.png">
-###  Cone with plane
+<img width="1241" alt="Screen Shot 2019-07-01 at 4 23 25 AM" src="https://user-images.githubusercontent.com/40596629/60405345-27786480-9bb8-11e9-8164-6a9a7dbb4f90.png">
+<img width="1239" alt="Screen Shot 2019-07-01 at 4 25 59 AM" src="https://user-images.githubusercontent.com/40596629/60405367-5abaf380-9bb8-11e9-91ae-6cfcf1e5d4b8.png">
+<img width="1242" alt="Screen Shot 2019-07-01 at 4 27 36 AM" src="https://user-images.githubusercontent.com/40596629/60405399-92c23680-9bb8-11e9-952f-98f8994ae1f0.png">
+<img width="1241" alt="Screen Shot 2019-07-01 at 4 28 13 AM" src="https://user-images.githubusercontent.com/40596629/60405429-c56c2f00-9bb8-11e9-9ee2-8de70f7cf3a0.png">
+<img width="1241" alt="Screen Shot 2019-07-01 at 4 29 46 AM" src="https://user-images.githubusercontent.com/40596629/60405441-e16fd080-9bb8-11e9-9c92-6d7ccdef8695.png">

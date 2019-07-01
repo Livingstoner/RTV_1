@@ -1,3 +1,5 @@
+<img width="1238" alt="Screen Shot 2019-07-01 at 4 32 32 AM" src="https://user-images.githubusercontent.com/40596629/60405500-47f4ee80-9bb9-11e9-9b89-b5c451e12e6c.png">
+
 # RTV_1
 Basic Ray Tracer
 

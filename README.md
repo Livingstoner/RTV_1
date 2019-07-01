@@ -54,3 +54,6 @@ Camera
 - *Cylinder*
 
 ## Scenes
+### Cylinder
+<img width="1240" alt="Screen Shot 2019-07-01 at 4 22 17 AM" src="https://user-images.githubusercontent.com/40596629/60405282-dc5e5180-9bb7-11e9-9a93-cae958f78283.png">
+###  Cone with plane

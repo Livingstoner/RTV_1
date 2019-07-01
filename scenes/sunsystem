@@ -1,0 +1,81 @@
+Light
+{
+	pos(0.0, 0.0, -20.0)
+	intense 1
+}
+
+Camera
+{
+	pos(0.0, 0.0, -20.0)
+	to(0.0, 0.0, 0.0)
+}
+
+Sphere
+{
+    pos(0.0, 0.0, 10.0)
+    color(255, 140, 0)
+    rad = 2
+}
+
+Sphere
+{
+    pos(-9.0, 0.0, 90.0)
+    color(255, 100, 10)
+    rad = 1
+}
+
+Sphere
+{
+    pos(-5.0, 5.0, 60.0)
+    color(255, 150, 10)
+    rad = 1
+}
+
+Sphere
+{
+    pos(5.0, 8.0, 60.0)
+    color(90, 90, 255)
+    rad = 1
+}
+
+Sphere
+{
+    pos(11.0, 18.0, 190.0)
+    color(128, 128, 128)
+    rad = 1
+}
+
+Sphere
+{
+    pos(22.0, 0.0, 60.0)
+    color(0, 0, 255)
+    rad = 1
+}
+
+Sphere
+{
+    pos(2.0, 17.0, 60.0)
+    color(155, 155, 255)
+    rad = 1
+}
+
+Sphere
+{
+    pos(-7.0, -9.0, 60.0)
+    color(255, 0, 0)
+    rad = 1
+}
+
+Sphere
+{
+    pos(-13.0, 8.0, 45.0)
+    color(255, 200, 100)
+    rad = 1
+}
+
+Sphere
+{
+    pos(8.0, -5.0, 25.0)
+    color(255, 150, 100)
+    rad = 1
+}
